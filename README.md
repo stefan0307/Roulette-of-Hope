@@ -15,25 +15,12 @@ A simple pygame-based roulette game made with the PyGame Library.
 - Python 3.x
 - pygame
 
-```bash
-pip install pygame
-```
-
 ## Assets
-
-Place the following files in an `assets/` folder:
-
 - `background.png`
 - `roulette.png`
 - `roulette_info.png`
 - `roulette_info2.png`
 - `casino_music.mp3`
-
-## How to Run
-
-```bash
-python main.py
-```
 
 ## How to Play
 
