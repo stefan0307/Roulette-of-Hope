@@ -1,4 +1,4 @@
-# Roulette of Hope 🎰
+# Roulette of Hope
 
 A simple Python roulette game made with the PyGame Library.
 
